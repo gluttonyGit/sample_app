@@ -21,14 +21,13 @@ group :test do
 end
 
 
-gem 'sass-rails', '4.0.1'
+gem 'sass-rails'
 gem 'uglifier', '2.1.1'
 gem 'coffee-rails', '4.0.1'
 gem 'jquery-rails', '3.0.4'
 gem 'turbolinks'
 gem 'jbuilder', '1.0.2'
 gem 'execjs', '2.2.1'
-gem 'sass', '3.2.13'
 
 group :doc do
   gem 'sdoc', '0.3.20', require: false
